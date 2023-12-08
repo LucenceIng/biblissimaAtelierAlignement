@@ -1,0 +1,8 @@
+#requirements.txt
+
+collatex
+python-levenshtein
+graphviz
+lxml
+numpy
+pydot
